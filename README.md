@@ -15,6 +15,9 @@ npm start
 ```
 ...and you have a running desktop application on your screen.
 
+![electron-boilerplate](https://github.com/unibitlabs/electron-boilerplate/blob/master/boilerplate.png)
+
+
 # Structure of the project
 
 The application consists of two main folders...
@@ -36,8 +39,6 @@ The drawback of this design is that `app` folder contains some files which shoul
 ```
 npm start
 ```
-
-![electron-boilerplate](https://github.com/unibitlabs/electron-boilerplate/blob/master/boilerplate.png)
 
 ## The build pipeline
 
