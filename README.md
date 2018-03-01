@@ -8,7 +8,7 @@ This project contains only bare minimum of dependencies, to provide you with nic
 
 Make sure you have [Node.js](https://nodejs.org) installed, then type the following commands known to every Node developer...
 ```
-git clone https://github.com/szwacz/electron-boilerplate.git
+git clone https://github.com/unibitlabs/electron-boilerplate.git
 cd electron-boilerplate
 npm install
 npm start
