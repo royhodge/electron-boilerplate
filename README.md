@@ -37,6 +37,9 @@ The drawback of this design is that `app` folder contains some files which shoul
 npm start
 ```
 
+![electron-boilerplate](https://raw.githubusercontent.com/unibitlabs/electron-boilerplate/master/electron-boilerplate/boilerplate.png)
+
+
 ## The build pipeline
 
 Build process uses [Webpack](https://webpack.js.org/). The entry-points are `src/background.js` and `src/app.js`. Webpack will follow all `import` statements starting from those files and compile code of the whole dependency tree into one `.js` file for each entry point.
