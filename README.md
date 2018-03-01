@@ -37,8 +37,7 @@ The drawback of this design is that `app` folder contains some files which shoul
 npm start
 ```
 
-![electron-boilerplate](https://raw.githubusercontent.com/unibitlabs/electron-boilerplate/master/electron-boilerplate/boilerplate.png)
-
+![electron-boilerplate](https://github.com/unibitlabs/electron-boilerplate/blob/master/boilerplate.png)
 
 ## The build pipeline
 
